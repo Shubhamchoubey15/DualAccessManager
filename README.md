@@ -27,6 +27,7 @@ You can also create a new user account from the login page.
 2. Clone the repository and paste the code into the `htdocs` folder.
 3. Open XAMPP, create a database named `study_sky`, and import the provided SQL file.
 4. Run the application via `localhost`.
+5. for Video Demo please visit to linkedin Post: https://www.linkedin.com/posts/shubham-choubey-2291a2216_software-documentmanagement-corporatesolutions-activity-7228864934514724864-4xmB?utm_source=share&utm_medium=member_desktop
 
 For secure and efficient document management in corporate environments, explore the up-to-date codebase on my [GitHub profile](https://github.com/Shubhamchoubey15).
 and email for any help shubhamchoubey151999@gmail.com
